@@ -12,7 +12,7 @@
 
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src="https://github.com/sheena-edelstein/prompts-recipe-to-create-a-ebook/blob/main/assets/capa%20do%20ebook.png"
     width="400"  
 />
 </p>
