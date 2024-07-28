@@ -24,7 +24,7 @@
 
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts seguem abaixo.
 
-<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/sheena-edelstein/prompts-recipe-to-create-a-ebook/blob/main/output/Mine%20C%20-%20Crafteando%20Algoritmos.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
@@ -43,11 +43,12 @@ ChatGPT：
 | conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
 
 
-Midjourney：
+Copilot：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| Capa | create an image portraying a feminine minecraft character in meditation pose, with green sparkles around her, black background |
+| Introdução | create an image portraying a minecraft character coding in a computer, white background |
 
 ## ✨ Features
 
