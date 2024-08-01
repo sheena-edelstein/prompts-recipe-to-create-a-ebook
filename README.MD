@@ -22,7 +22,7 @@
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso na plataforma da [DIO](https://dio.me)
 
-Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts seguem abaixo.
+Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. Todos os detalhes do projeto seguem abaixo.
 
 <a href="https://github.com/sheena-edelstein/prompts-recipe-to-create-a-ebook/blob/main/output/Mine%20C%20-%20Crafteando%20Algoritmos.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
@@ -37,7 +37,7 @@ Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramen
 
 ChatGPT：
 
-|   Ação   | prompt                                                                                                                                                                                                                                                                         |
+|   Ação   | prompt         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie um título de um ebook sobre o tema de Introdução à Programação em C, o ebook é do nicho de programação e o subnicho é de lógica de programação, o título deve ser épico e curto, e tenha uma temática de Minecraft no título, me liste 5 variações de títulos                   |
 | introdução | Faça a introdução de um ebook sobre Introdução à Lógica de Programação em C com o tema de Minecraft. Aborde brevemente os temas mais importantes que serão tratados no ebook, conforme a lista abaixo. Seja lúdico e utilize uma linguagem acessível. - Conceitos básicos de programação - Sintaxe e Estrutura Básica do C - Controle de Fluxo - Entrada e Saída (I/O) - Práticas de Programação |
