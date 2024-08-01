@@ -39,8 +39,9 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | Crie um título de um ebook sobre o tema de Introdução à Programação em C, o ebookk é do nicho de programação e o subnicho é de lógica de programação, o título deve ser épico e curto, e tenha uma temática de Minecraft no título, me liste 5 variações de títulos                                                        |
+| introdução | Faça a introdução de um ebook sobre Introdução à Lógica de Programação em C com o tema de Minecraft. Aborde brevemente os temas mais importantes que serão tratados no ebook, conforme a lista abaixo. Seja lúdico e utilize uma linguagem acessível. - Conceitos básicos de programação - Sintaxe e Estrutura Básica do C - Controle de Fluxo - Entrada e Saída (I/O) - Práticas de Programação |
+| conteúdo | Faça um texto para ebook, com foco em Lógica de Programação, falando sobre algoritmos com exemplos em código Aborde os seguintes tópicos: - Conceitos básicos de programação - Sintaxe e Estrutura Básica do C - Controle de Fluxo - Entrada e Saída (I/O) - Práticas de Programação ||
 
 
 Copilot：
